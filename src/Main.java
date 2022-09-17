@@ -17,7 +17,7 @@ public class Main {
 
         var p = Period.between(d1,d2);
 
-        System.out.println(p.getYears()+" Years"+p.getMonths()+
-                " Months"+ p.getDays()+" Days");
+        System.out.println(p.getYears()+" Years "+p.getMonths()+
+                " Months "+ p.getDays()+" Days");
     }
 }
